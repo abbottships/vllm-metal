@@ -41,6 +41,7 @@ validation guidance. The reranker requires Qwen3 sequence-classification
 | Qwen3-Reranker | 🔵 | | `pooling` / `classify` (paged) | `mku64/Qwen3-Reranker-0.6B-mlx-8Bit` |
 | BGE-M3 | 🔵 | | `pooling` / `embed`, `token_classify` (encoder) | `BAAI/bge-m3` |
 | Multilingual E5 Base | 🔵 | | `pooling` / `embed` (encoder) | `intfloat/multilingual-e5-base` |
+| vllm-sr Decision 3.0 (d3) | 🔵 | | `pooling` / `classify` (encoder), [structured decisions](structured_decisions.md#vllm-sr-decision-30-d3) | `vllm-sr/d3-mini` |
 
 ## Multimodal Language Models
 
